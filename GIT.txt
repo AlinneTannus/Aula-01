@@ -1,0 +1,48 @@
+    O GIT serve como uma espécie de backup para os códigos, é bastante útil para trabalhar em euqipes. Criar um repositorio é a ciração de GIT e a utilização. O GIT é extemamente útil porque com ele podemos ter um histórico e assim saber quem alterou tal coisa no projeto, quando é feita uma alteração é possível saber quem fez determinada coisas é extremamente importante para trabalhos em equipe.
+
+    Iniciano um repositório (nosso projeto) 
+
+    Em um terminal ou prompt de comando digitar git init e para ver o que tem dentro dele e basta digitar cd .git
+
+    README serve para dar instruções
+    git add -A
+
+    Criando commit 
+    git commit -m "Primeiro commit"
+
+    git status para saber a situação dos arquivos, para saber das alterações
+
+
+    git log para saber dos commits vai exibir o que escreveram no commit quem o email e a data e hora
+
+
+    O GIT serve como uma espécie de backup para os códigos, é bastante útil para trabalhar em euqipes. Criar um repositorio é a ciração de GIT e a utilização.
+
+    Iniciano um repositório (nosso projeto)
+
+    Basta criar uma pasta através de um terminal 
+
+    Comandos básicos em terminais
+
+
+    git branch "nome do novo branch" - Para cirar um novo Branch  
+
+    git commit -am "Teste de novo Branch" = Aidcionando um novo commit
+
+    git checkout "nome do branch/commit" - Para trocar de branch/commit 
+
+    git log  -  para saber das alterações,  irá mostrar novos commits
+
+    git diff - Para saber o que foi modificado derntro do arquivo 
+
+    git name only - para saber mudanças de nome dos arquivos 
+    
+    git checkout HEAD -- REAME.md 
+
+    Criando repositório no GITHUB - Ciração de conta no site GITHUB.COM
+
+    git remote - para ver o repositório 
+
+    git push -u "nome" push - enviando o repositório
+
+    
